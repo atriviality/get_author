@@ -1,0 +1,15 @@
+{
+  "name": "get_author",
+  "version": "1.0.0",
+  "description": "Grab the author of select news articles programmatically",
+  "main": "index.js",
+  "author": "Akash Trivedi",
+  "license": "MIT",
+  "dependencies": {
+    "@mozilla/readability": "^0.5.0",
+    "axios": "^1.7.7",
+    "csv-parse": "^5.5.6",
+    "csv-stringify": "^6.5.1",
+    "jsdom": "^25.0.0"
+  }
+}
